@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api-server",
+    "\\src\\app",
+    "\\src\\app\\user",
+    "\\src\\app\\user\\sign-in",
+    "\\src\\app\\user\\template-form-controls",
+    "\\src\\assets\\images"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
